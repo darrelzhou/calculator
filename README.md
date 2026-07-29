@@ -1,3 +1,5 @@
+ecalc.exe 是计算器的可执行文件
+
 # Expression Calculator
 
 基于**表达式树 (Expression Tree)** 的数学表达式求值器，C++17 实现，工程化的模块设计。
